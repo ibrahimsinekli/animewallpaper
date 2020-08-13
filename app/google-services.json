@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184100493670",
+    "firebase_url": "https://anime-wallpaper-87b47.firebaseio.com",
+    "project_id": "anime-wallpaper-87b47",
+    "storage_bucket": "anime-wallpaper-87b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184100493670:android:52eb260edd3a6911f710a7",
+        "android_client_info": {
+          "package_name": "com.erikshop.animewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184100493670-8esjanp8he4nrvn4sbk3i0vfofpsavhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.erikshop.animewallpaper",
+            "certificate_hash": "82c390aa0992c3a00bd19a2918f8f078ab445df1"
+          }
+        },
+        {
+          "client_id": "184100493670-qk4qp8n3ppjmv0vbm49nvijgtdnsp612.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIs_KX7OmNS5SjeeFRfyFr5vNV5iyT8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184100493670-qk4qp8n3ppjmv0vbm49nvijgtdnsp612.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
